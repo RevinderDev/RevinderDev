@@ -1,8 +1,6 @@
-## 👋 Hi there, I'm Michał
+<h1 align=center>👋 Hi there, I'm Michał "Revinder" </h1>
 
-
-**About me**
-
+### About me
 - 💼 Backend developer
 - ❤️ Tinkerer & Gamer at heart
 - ⚙️ Love low level engineering
@@ -10,15 +8,44 @@
 - 📑 Blog https://revinderdev.github.io/
 - 👀 Always on a look out 
 
-Twitter [@Revinder_](https://twitter.com/Revinder_) 
+<p align="center">
+    <a href="https://twitter.com/Revinder_">
+        <img alt="Twitter" src="https://img.shields.io/badge/-%40Revinder_%5F-blue?style=for-the-badge&logo=x&color=%2315161e">
+    </a>
+</p>
+<hr>
 
-### At work I use
 
-![](https://skillicons.dev/icons?i=py,linux,vscode,django,fastapi,docker,aws,gcp)
+<h3 align ="center"> At work I use </h3>
 
-### In my spare time I play with
 
-![](https://skillicons.dev/icons?i=rust,lua,java,neovim,powershell,wasm)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,vscode,django" />
+  </a>
+</p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=revinderdev&show_icons=true&include_all_commits=true&theme=gruvbox&border_radius=10&rank_icon=github" alt="Revinder GithubStats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revinderdev&layout=compact&theme=gruvbox&border_radius=10&langs_count=4&size_weight=0.5&count_weight=0.5&hide=c%23,shaderlab" /> |
-| ------------- | ------------- |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,gcp" />
+  </a>
+</p>
+
+
+<h3 align ="center">In my spare time I play with</h3>
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,lua,neovim,powershell" />
+  </a>
+</p>
+
+<hr>
+
+<p align="center"> 
+    <a href="https://scottmckendry.tech">
+        <img alt="github streak" src="https://github-readme-stats.vercel.app/api?username=revinderdev&show_icons=true&include_all_commits=true&theme=gruvbox&border_radius=10&rank_icon=github">
+    </a>
+</p>
