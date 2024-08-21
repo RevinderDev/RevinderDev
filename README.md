@@ -2,8 +2,8 @@
 
 ### About me
 - 💼 Backend developer
-- ❤️ Tinkerer & Gamer at heart
-- ⚙️ Love low level engineering
+- ❤️  Tinkerer & Gamer at heart
+- ⚙️  Love low level engineering
 - 📚 M.Eng. in Computer Science & B.Eng. in Computational Engineering
 - 📑 Blog https://revinderdev.github.io/
 - 👀 Always on a look out 
@@ -21,13 +21,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,vscode,django" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,django,postgres" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,neovim,redis" />
   </a>
 </p>
 
@@ -38,14 +38,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,lua,neovim,powershell" />
+    <img src="https://skillicons.dev/icons?i=rust,lua,windows,powershell" />
   </a>
 </p>
 
 <hr>
 
 <p align="center"> 
-    <a href="https://scottmckendry.tech">
+    <a href="https://revinderdev.github.io/">
         <img alt="github streak" src="https://github-readme-stats.vercel.app/api?username=revinderdev&show_icons=true&include_all_commits=true&theme=gruvbox&border_radius=10&rank_icon=github">
     </a>
 </p>
