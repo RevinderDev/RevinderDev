@@ -3,7 +3,6 @@
 ### About me
 - 💼 Backend developer
 - ❤️  Tinkerer & Gamer at heart
-- ⚙️  Love low level engineering
 - 📚 M.Eng. in Computer Science & B.Eng. in Computational Engineering
 - 📑 Blog https://revinderdev.github.io/
 - 👀 Always on a look out 
