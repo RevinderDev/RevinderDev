@@ -45,6 +45,6 @@
 
 <p align="center"> 
     <a href="https://revinderdev.github.io/">
-        <img alt="github streak" src="https://github-readme-stats.vercel.app/api?username=revinderdev&show_icons=true&include_all_commits=true&theme=gruvbox&border_radius=10&rank_icon=github">
+        <img alt="Github Badge" src="https://github-readme-stats.vercel.app/api?username=revinderdev&show_icons=true&include_all_commits=true&theme=gruvbox&border_radius=10&rank_icon=github">
     </a>
 </p>
