@@ -4,7 +4,7 @@
 - 💼 Backend developer
 - ❤️  Tinkerer & Gamer at heart
 - 📚 M.Eng. in Computer Science & B.Eng. in Computational Engineering
-- 📑 Blog https://revinderdev.github.io/
+- 📑 Blog https://revinder.dev
 - 👀 Always on a look out 
 
 <p align="center">
