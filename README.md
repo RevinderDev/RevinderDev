@@ -7,11 +7,6 @@
 - 📑 Blog https://revinder.dev
 - 👀 Always on a look out 
 
-<p align="center">
-    <a href="https://twitter.com/Revinder_">
-        <img alt="Twitter" src="https://img.shields.io/badge/-%40Revinder_%5F-blue?style=for-the-badge&logo=x&color=%2315161e">
-    </a>
-</p>
 <hr>
 
 
